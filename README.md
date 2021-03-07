@@ -9,7 +9,7 @@ generate a map
 
 ![Screenshot](libft/genusg.png)
 ![Screenshot](libft/genusg2.png)
-![Screenshot](libft/genusg3.png)
+![Screenshot](libft/gen3.png)
 
 
 executing lem-in
